@@ -110,4 +110,4 @@ One heads-up: the grid search includes `max_features="auto"`, which newer versio
 
 ## Author
 
-[Your name]
+Yash Jain
